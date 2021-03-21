@@ -9,6 +9,7 @@ from views import packages
 
 app = fastapi.FastAPI()
 
+
 def main():
     configure()
     uvicorn.run(app, host='127.0.0.1', port=8000)
