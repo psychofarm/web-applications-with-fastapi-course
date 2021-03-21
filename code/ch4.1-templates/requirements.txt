@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+
+git+https://github.com/psychofarm/fastapi-chameleon
