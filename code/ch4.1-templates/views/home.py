@@ -11,5 +11,6 @@ def index(user: str = 'guest_user'):
     }
 
 @router.get('/about')
+@template()
 def about():
     return {}
