@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+aiofiles
+
+git+https://github.com/psychofarm/fastapi-chameleon
+
+starlette

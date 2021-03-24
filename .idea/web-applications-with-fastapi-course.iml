@@ -10,6 +10,7 @@
     <option name="TEMPLATE_FOLDERS">
       <list>
         <option value="$MODULE_DIR$/code/ch4.1-templates/templates" />
+        <option value="$MODULE_DIR$/code/ch5.1-viewmodels/templates" />
       </list>
     </option>
   </component>
