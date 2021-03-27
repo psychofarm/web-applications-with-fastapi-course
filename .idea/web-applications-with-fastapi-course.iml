@@ -11,6 +11,7 @@
       <list>
         <option value="$MODULE_DIR$/code/ch4.1-templates/templates" />
         <option value="$MODULE_DIR$/code/ch5.1-viewmodels/templates" />
+        <option value="$MODULE_DIR$/code/ch6.1-users-and-forms/templates" />
       </list>
     </option>
   </component>

@@ -1,9 +1,10 @@
 from typing import List
 
+from services import package_service
+from services import user_service
 from starlette.requests import Request
-
-from services import package_service, user_service
 from viewmodels.shared.viewmodel import ViewModelBase
+
 
 class IndexViewModel(ViewModelBase):
     def __init__(self, request: Request):
