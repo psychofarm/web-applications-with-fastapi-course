@@ -24,3 +24,4 @@ class DetailsViewModel(ViewModelBase):
 
         self.latest_version = self.latest_release.version
         self.maintainers = self.package.maintainers
+

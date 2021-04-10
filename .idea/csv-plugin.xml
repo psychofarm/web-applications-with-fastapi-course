@@ -3,6 +3,41 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="C:\Users\c131305\AppData\Roaming\JetBrains\PyCharm2020.3\consoles\db\9cc4172b-5b6e-412e-a1a2-140b068ab1cb\console.sql">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\code\ch6-users-and-forms\infrastructure\cookie_auth.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\code\ch6.1-users-and-forms\infrastructure\cookie_auth.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\code\ch6.1-users-and-forms\main.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\code\ch6.1-users-and-forms\requirements.txt">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\code\ch6.1-users-and-forms\views\account.py">
           <value>
             <Attribute>
