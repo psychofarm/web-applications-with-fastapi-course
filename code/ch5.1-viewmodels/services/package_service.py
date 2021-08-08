@@ -5,6 +5,7 @@ from typing import Optional
 from data.release import Release
 from data.package import Package
 
+
 def release_count() -> int:
     return 2_234_847
 

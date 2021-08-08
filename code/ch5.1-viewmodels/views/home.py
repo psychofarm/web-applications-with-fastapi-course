@@ -11,7 +11,7 @@ router = fastapi.APIRouter()
 
 @router.get('/')
 @template()
-def index(request=Request):
+def index(request: Request):
     vm = IndexViewModel(request)
     return vm.to_dict()
 
@@ -20,5 +20,4 @@ def index(request=Request):
 @template()
 def about(request: Request):
     vm = ViewModelBase(request)
-    # TODO: Use the vm.
-    return {}
+    return vm.to_dict()
